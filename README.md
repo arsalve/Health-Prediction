@@ -6,10 +6,7 @@ depend on the doctors knowledge on that topic . so we made a system that
 uses data mining techniques to predict the health of a person based on various
 medical test results. so we can predict the health of that person based on
 that analysis performed by the system.The system currently design only for
-heart issues, for that we had used Statlog (Heart) Data Set from UCI Machine
-
-Learning Repository it includes attributes like age, sex, chest pain type, choles-
-terol, sugar, outcomes,etc.for training the system. we only need to passed few
+heart issues, for that we had used Statlog (Heart) Data Set from UCI Machine Learning Repository it includes attributes like age, sex, chest pain type, choles-terol, sugar, outcomes,etc.for training the system. we only need to passed few
 
 general inputs in order to generate the prediction and the prediction results
 from all algorithms are they merged together by calculating there mean value
